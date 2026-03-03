@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "Hello, World!"}
+    return {"message": "This is a simple Python Web Page and the file name is main.py"}
