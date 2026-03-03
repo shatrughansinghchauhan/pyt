@@ -1,5 +1,6 @@
 def handler(request):
+    print("hello")
     return {
         "statusCode": 200,
-        "body": "hello"
+        "body": "Check Vercel logs"
     }
