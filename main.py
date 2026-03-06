@@ -1,1 +1,1 @@
-print("This is a simple Pythone Web Page")
+print("This is a main.py")
